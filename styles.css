@@ -1,0 +1,44 @@
+body{
+    background-color: #C6CF9B;
+}
+h1{
+    background-color:#F6ECA9 ;
+    color: black;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: black solid 2px;
+}
+.everything{
+    font-family: Ubuntu;
+    text-align: center;
+}
+
+img{
+    background-color: #F6ECA9;
+    height: 500px;
+    width: 400px;
+    padding: 10px ;
+    border : black solid 2px !important;
+   
+}
+
+#imagetwo img{
+    height: 500px;
+    width: 400px;
+}
+#imagetwo img{
+    width: 400;
+    height: 250px;
+}
+
+div h2{
+    background-color: #F6ECA9 ;
+    color: black;
+    padding: 2px;
+    margin-left: 115px;
+    margin-right: 115px;
+    border: black solid 2px ;
+}
+
