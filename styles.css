@@ -3,12 +3,8 @@ body{
 }
 h1{
     background-color:#F6ECA9 ;
-    color: black;
-    padding-bottom: 30px;
-    padding-top: 30px;
-    margin-left: 200px;
-    margin-right: 200px;
-    border: black solid 2px;
+    color: black ;
+    border: black solid 2px ;
 }
 .everything{
     font-family: Ubuntu;
@@ -17,28 +13,26 @@ h1{
 
 img{
     background-color: #F6ECA9;
-    height: 500px;
-    width: 400px;
+    height: auto;
+    width: auto;
     padding: 10px ;
     border : black solid 2px !important;
    
 }
 
-#imagetwo img{
-    height: 500px;
-    width: 400px;
+#imageone img{
+    height: 50%;
+    width: 50%;
 }
 #imagetwo img{
-    width: 400;
-    height: 250px;
+    width: 50%;
+    height: 50%;
 }
 
 div h2{
     background-color: #F6ECA9 ;
     color: black;
     padding: 2px;
-    margin-left: 115px;
-    margin-right: 115px;
     border: black solid 2px ;
 }
 
